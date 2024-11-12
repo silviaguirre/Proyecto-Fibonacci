@@ -14,7 +14,7 @@ Instala las dependencias:
 
 - Para un entorno de desarrollo (incluye herramientas de prueba):
 
- *bash*
+
 
  
 `pip install -r requirements-dev.txt`
