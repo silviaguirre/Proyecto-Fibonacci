@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  proyectofibonacci:
+    image: proyectofibonacci
+    build:
+      context: .
+      dockerfile: ./Dockerfile
