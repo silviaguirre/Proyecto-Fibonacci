@@ -3,18 +3,12 @@ Este proyecto implementa un método para cácular el n-ésimo número de Fibonac
 # Getting Started
 
 `git clone https://github.com/cberdejo/Proyecto-Fibonacci/edit/main/README.md`
-`cd proyectoFibonacci`
+`cd Proyecto-Fibonacci`
 Instala las dependencias:
 
-Para un entorno de producción, ejecuta:
-
-*bash*
 
 
-`pip install -r requirements.txt`
-
-
-Para un entorno de desarrollo (incluye herramientas de prueba y linting):
+Para un entorno de desarrollo (incluye herramientas de prueba):
 
  *bash*
 
