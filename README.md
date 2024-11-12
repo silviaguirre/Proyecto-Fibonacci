@@ -3,12 +3,14 @@ Este proyecto implementa un método para cácular el n-ésimo número de Fibonac
 # Getting Started
 
 `git clone https://github.com/cberdejo/Proyecto-Fibonacci/edit/main/README.md`
+
+
 `cd Proyecto-Fibonacci`
 Instala las dependencias:
 
 
 
-Para un entorno de desarrollo (incluye herramientas de prueba):
+- Para un entorno de desarrollo (incluye herramientas de prueba):
 
  *bash*
 
@@ -16,12 +18,12 @@ Para un entorno de desarrollo (incluye herramientas de prueba):
 `pip install -r requirements-dev.txt`
 
 
-Ejecuta el script principal para calcular el Fibonacci de un número.
-
+- Ejecuta el script principal para calcular el n-ésimo número de Fibonacci.
 
 ## Ejecución de Pruebas
 Para ejecutar pruebas unitarias, asegúrate de haber instalado las dependencias de desarrollo. Luego, puedes ejecutar las pruebas con:
 `
+no me acuerdo el comando
 `
 
 # Licencia
