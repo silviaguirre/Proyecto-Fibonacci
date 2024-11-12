@@ -8,12 +8,19 @@ Instala las dependencias:
 
 Para un entorno de producción, ejecuta:
 
-bash
+** bash
+
+
 `pip install -r requirements.txt`
+
+
 Para un entorno de desarrollo (incluye herramientas de prueba y linting):
 
-bash
+ bash
+
+ 
 `pip install -r requirements-dev.txt`
+
 
 Ejecuta el script principal para calcular el Fibonacci de un número.
 
